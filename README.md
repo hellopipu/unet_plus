@@ -12,6 +12,6 @@ paper : [UNet++: A Nested U-Net Architecture for Medical Image Segmentation](htt
 　　　　　　　　　　　　　　x3 　→　 x  
 　　　　　　　　　　　　　　　↘　↗  
 　　　　　　　　　　　　　　　　x4  
-Notice: For ease of drawing , I have omitted some of the connections ,such as x1 to x32 
+Notice: For ease of drawing , I have omitted some of the connections ,such as x1 to x12 
               
     
